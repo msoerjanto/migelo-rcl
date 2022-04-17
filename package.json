@@ -1,0 +1,19 @@
+{
+  "name": "migelo-rcl",
+  "version": "1.0.0",
+  "description": "my first original react component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msoerjanto/migelo-rcl.git"
+  },
+  "author": "msoerjanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msoerjanto/migelo-rcl/issues"
+  },
+  "homepage": "https://github.com/msoerjanto/migelo-rcl#readme"
+}
